@@ -10,8 +10,8 @@
 
 ## 알고리즘&자료구조 개념 정리
 * &#128215;[Hello Coding 그림으로 개념을 이해하는 알고리즘](http://www.yes24.com/Product/Goods/37885448)
-    * [Chaper3: 퀵 정렬]()
-    * [Chaper4: 해시 테이블]()
+    * [Chaper3: 퀵 정렬](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chaper3_qsort)
+    * [Chaper4: 해시 테이블](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chaper4_Hash)
     * [Chaper5: 너비 우선 탐색]()
     * [Chaper6: 다익스트라]()
     * [Chaper7: Greedy]()
