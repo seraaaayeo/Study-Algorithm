@@ -3,10 +3,17 @@
     <img alt="algorithm image" src="https://user-images.githubusercontent.com/53554014/88824019-bd8a1e80-d200-11ea-9e4e-86904a39d2e7.jpg" width=50% height=50% />
 </p>
 <p align="center">
-    &#10067; Daily report what I studied and how I solved algorithm quiz &#10071;
+    &#10067; Daily report what I studied and how I solved algorithm quiz  &#10071;
 </p>
 
 ***
 
 ## 알고리즘&자료구조 개념 정리
-* &#128215;[참고도서: Hello Coding 그림으로 개념을 이해하는 알고리즘](http://www.yes24.com/Product/Goods/37885448)
+* &#128215;[Hello Coding 그림으로 개념을 이해하는 알고리즘](http://www.yes24.com/Product/Goods/37885448)
+    * [Chaper3: 퀵 정렬]()
+    * [Chaper4: 해시 테이블]()
+    * [Chaper5: 너비 우선 탐색]()
+    * [Chaper6: 다익스트라]()
+    * [Chaper7: Greedy]()
+    * [Chaper8: Dynamic Programming]()
+    * [Chaper9: KNN]()
