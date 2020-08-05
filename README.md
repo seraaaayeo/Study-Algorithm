@@ -9,11 +9,12 @@
 ***
 
 ## 알고리즘&자료구조 개념 정리
-* &#128215;[Hello Coding 그림으로 개념을 이해하는 알고리즘](http://www.yes24.com/Product/Goods/37885448)
-    * [Chaper4: 퀵 정렬](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter4_qsort)
-    * [Chaper5: 해시 테이블](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter5_Hash)
-    * [Chaper6: 너비 우선 탐색](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter6_BFS)
-    * [Chaper7: 다익스트라](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter7_Dijkstra)
-    * [Chaper8: Greedy](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter8_Greedy)
-    * [Chaper9: Dynamic Programming](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter9_Dynamic)
-    * [Chaper10: KNN]()
+* &#128215; [Hello Coding 그림으로 개념을 이해하는 알고리즘](http://www.yes24.com/Product/Goods/37885448) &#128215;
+    * [Chapter4: 퀵 정렬](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter4_qsort)
+    * [Chapter5: 해시 테이블](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter5_Hash)
+    * [Chapter6: 너비 우선 탐색](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter6_BFS)
+    * [Chapter7: 다익스트라](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter7_Dijkstra)
+    * [Chapter8: Greedy](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter8_Greedy)
+    * [Chapter9: Dynamic Programming](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter9_Dynamic)
+    * [Chapter10: KNN](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter10_KNN)
+    * [Chapter11: Learn more](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter11_Learn_more)
