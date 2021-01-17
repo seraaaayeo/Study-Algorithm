@@ -18,3 +18,10 @@
     * [Chapter9: Dynamic Programming](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter9_Dynamic)
     * [Chapter10: KNN](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter10_KNN)
     * [Chapter11: Learn more](https://github.com/seraaaayeo/Study-Algorithm/tree/master/Algorithm/Chapter11_Learn_more)
+    
+## 백준 문제풀기 - 한 주에 두문제
+### Week 1
+|  <center>번호</center> |  <center>문제</center> |  <center>핵심 개념</center> |  <center>제출일</center> |
+|:--------|:--------:|:--------:|:--------:|
+|**9093** | <center>[단어 뒤집기](https://www.acmicpc.net/problem/9093)</center> | <center>문자열 다루기</center> | <center>0117</center>
+|**10828** | <center>[스택](https://www.acmicpc.net/problem/10828)</center> | <center>스택 직접 구현</center> | <center>0117</center> 
