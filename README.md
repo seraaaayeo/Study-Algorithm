@@ -27,9 +27,11 @@
 |**10828** | <center>[스택](https://www.acmicpc.net/problem/10828)</center> | <center>스택 직접 구현</center> | <center>0117</center> 
 
 ### Week 2
+|  <center>번호</center> |  <center>문제</center> |  <center>핵심 개념</center> |  <center>제출일</center> |
 |**1874** | <center>[스택 수열](https://www.acmicpc.net/problem/1874)</center> | <center>스택</center> | <center>0124</center> 
 |**9012** | <center>[괄호](https://www.acmicpc.net/problem/9012)</center> | <center>문자열, 스택</center> | <center>0124</center> 
 
 ### Week 3
+|  <center>번호</center> |  <center>문제</center> |  <center>핵심 개념</center> |  <center>제출일</center> |
 |**1406** | <center></center> | <center></center> | <center></center> 
 |**1697** | <center></center> | <center></center> | <center></center> 
