@@ -25,3 +25,11 @@
 |:--------|:--------:|:--------:|:--------:|
 |**9093** | <center>[단어 뒤집기](https://www.acmicpc.net/problem/9093)</center> | <center>문자열 다루기</center> | <center>0117</center>
 |**10828** | <center>[스택](https://www.acmicpc.net/problem/10828)</center> | <center>스택 직접 구현</center> | <center>0117</center> 
+
+### Week 2
+|**1874** | <center>[스택 수열](https://www.acmicpc.net/problem/1874)</center> | <center>스택</center> | <center>0124</center> 
+|**9012** | <center>[괄호](https://www.acmicpc.net/problem/9012)</center> | <center>문자열, 스택</center> | <center>0124</center> 
+
+### Week 3
+|**1406** | <center></center> | <center></center> | <center></center> 
+|**1697** | <center></center> | <center></center> | <center></center> 
