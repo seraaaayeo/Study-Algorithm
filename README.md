@@ -35,5 +35,5 @@
 ### Week 3
 |  <center>번호</center> |  <center>문제</center> |  <center>핵심 개념</center> |  <center>제출일</center> |
 |:--------|:--------:|:--------:|:--------:|
-|**1406** | <center></center> | <center></center> | <center></center> 
-|**1697** | <center></center> | <center></center> | <center></center> 
+|**1406** | <center>[에디터](https://www.acmicpc.net/problem/1406)</center> | <center>스택</center> | <center>0131</center> 
+|**1697** | <center>[숨바꼭질](https://www.acmicpc.net/problem/1697)</center> | <center>그래프, BFS</center> | <center>0131</center> 
